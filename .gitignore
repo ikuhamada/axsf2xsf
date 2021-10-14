@@ -1,0 +1,4 @@
+axsf2xsf
+*.o
+*.log
+.DS_Store
